@@ -23,13 +23,13 @@ It provides functionality to add employees, search for employees, and print a li
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/death10101/Projecthome/employee-management.git
+   git clone https://github.com/death10101/Projecthome.git
 
 2. Navigate to the project directory
 
-   cd employee-management
+   cd Projecthome
 
 3. Run the script
    
-   python employee_management.py
+   python3 eEmployees.py
 
