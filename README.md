@@ -31,5 +31,5 @@ It provides functionality to add employees, search for employees, and print a li
 
 3. Run the script
    
-   python3 eEmployees.py
+   python3 Employees.py
 
